@@ -1,12 +1,13 @@
 # ⛰ tourism-website
 ADVENTURE - A simple website of a tourism agency for tourists.
+Developed by Mani Chandana
 
 ## 📋 About
  -  This is a simple website
  -  Pure HTML, CSS, JavaScript used
  
  ## 🔗 To see the project
-[Tourism website](https://simple-tourism-organization.netlify.app/)
+[Tourism website](https://coruscating-lily-77959d.netlify.app/)
 
 ## 👓 Preview
 
